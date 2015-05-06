@@ -2,11 +2,9 @@ Super Mario
 ===========
 This project implements a simplified version of Super Mario in pure C without any additional graphics library.
 
-For details of the implementation, please refer to my [blog](https://blog.yanchen.im/?p=131). There is also a Chinese but less detailed version [here](https://blog.yanchen.im/?p=161).
+For details of the implementation, please refer to my [blog](http://blog.yanchen.im/2013/04/09/super-mario-in-c/).
 
 Turbo C, which is included in the project in folder TC, and DOSBox are needed to compile and run this program.
-
-A very short video of the game is [here](https://www.youtube.com/watch?v=AubjK0NVTMI). 
 
 To compile and run:
 
