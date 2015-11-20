@@ -41,3 +41,4 @@ To compile and run:
 #### Developers
 - Yan Chen
 - Liang Guo
+- Bilin Dai
