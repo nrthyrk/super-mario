@@ -1,6 +1,6 @@
 Super Mario
 ===========
-This project implements a simplified version of Super Mario in pure C without any additional graphics library.
+This project implements a simplified version of Super Mario in C without any additional graphics library.
 
 Refer to this [post](https://blog.yanchen.im/2013/04/09/super-mario-in-c/) for Q&A.
 
