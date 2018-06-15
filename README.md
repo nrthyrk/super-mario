@@ -34,9 +34,8 @@ To compile and run:
    ```
    GDC.EXE
    ```
-- Use Ctrl+F12 and Ctrl+F11 to adjust CPU cycles to around 20000
-- Wait for around half a minute to load the game
-- Enjoy!
+- Use Ctrl+F12 and Ctrl+F11 to adjust CPU cycles to around 20000;
+- Wait for around half a minute to load the game.
 
 #### Developers
 - Yan Chen
