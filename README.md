@@ -8,7 +8,7 @@ Turbo C, which is included in the project in folder TC, and DOSBox are needed to
 
 To compile and run:
 
-1. Download and install DOSBox
+- Download and install DOSBox
 - Mount the root folder of this project as C: in DOSBox
    
    ```
