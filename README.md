@@ -2,7 +2,7 @@ Super Mario
 ===========
 This project implements a simplified version of Super Mario in pure C without any additional graphics library.
 
-For details of the implementation, please refer to [wiki](https://github.com/halfvim/SuperMario/wiki).
+Refer to this [post](https://blog.yanchen.im/2013/04/09/super-mario-in-c/) for Q&A.
 
 Turbo C, which is included in the project in folder TC, and DOSBox are needed to compile and run this program.
 
